@@ -17,7 +17,6 @@ A Thread🧵↓ [pic.twitter.com/Q5vEEXGGE3](https://twitter.com/Div_pradeep/sta
 ![3_1546094237648793602](https://pbs.twimg.com/media/FXTUhIBVsAIK1WC.jpg)
 
 What is recursion in javascript?
-
 → Recursion is a process of calling itself. A function that calls itself is called a recursive function.
 
 → Suppose that you have a function called 'recurse()`. The recurse() is a recursive function if it calls itself inside its body
@@ -26,9 +25,9 @@ Example: [pic.twitter.com/2OQn4SHz2d](https://twitter.com/Div_pradeep/status/154
 
 ![3_1546094242849640449](https://pbs.twimg.com/media/FXTUhbZUUAEf_CT.png)
 
-→ A recursive function always has a condition to stop calling itself. 
+→ A recursive function always has a condition to stop calling itself.
 
-→ Otherwise, it will call itself indefinitely. 
+→ Otherwise, it will call itself indefinitely.
 
 → Once the condition is met, the function stops calling itself. This is called a base condition.
 
